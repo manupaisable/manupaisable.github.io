@@ -1,7 +1,7 @@
 # Hello! I'm Manuel Pais
 # Delivery Coach and Technologist 
 
-![ManuelPais_2017_small-oreilly-292](C:\Users\manu\Dropbox\Work\Github\manupaisable.github.io\images\ManuelPais_2017_small-oreilly-292.jpg)
+![ManuelPais_2017_small-oreilly-292](images/ManuelPais_2017_small-oreilly-292.jpg)
 
 ## About Me
 
