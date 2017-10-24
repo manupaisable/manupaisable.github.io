@@ -1,4 +1,5 @@
-# Hello! This is the website for Manuel Pais, Delivery Coach and Technologist
+# Hello! I'm Manuel Pais
+# Delivery Coach and Technologist
 
 ## About Me
 
