@@ -45,7 +45,23 @@ Spent the last years helping clients adopt **DevOps** and accelerate their **Del
 
 ## Articles
 
+Here are some examples of articles I've written for [InfoQ](https://www.infoq.com/profile/Manuel-Pais), [DZone](https://dzone.com/users/879943/manuelpais@gmail.com.html), [TechBeacon](https://techbeacon.com/contributors/manuel-pais) where I share my learnings from working with clients across industries.
 
+[How to increase enterprise collaboration and speed in your DevOps pipeline](https://techbeacon.com/how-increase-enterprise-collaboration-speed-your-devops-pipeline)
+
+> We can take DevOps collaboration beyond IT (some call it [BizDevOps](http://searchsoftwarequality.techtarget.com/essentialguide/Why-and-how-BizDevOps-is-going-to-change-everything)) by mapping the full value stream, identifying the biggest bottlenecks today, and improving collaboration between teams inside and outside IT.
+
+
+
+[Continuous Delivery anti-patterns](https://dzone.com/articles/continuous-delivery-anti-patterns)
+
+> The idea that you can “just plug in a deployment pipeline” and get the bene ts of CD is a common anti-pattern.
+
+
+
+[Securing a Continuous Delivery pipeline](https://dzone.com/articles/securing-a-continuous-delivery-pipeline)
+
+> Automating security checks triggers conversations between developers, testers, and security folks. They get everyone on the same page, promote knowledge sharing, and establish common grounds and testable criteria for moving a candidate release through the deployment pipeline.
 
 ------
 
