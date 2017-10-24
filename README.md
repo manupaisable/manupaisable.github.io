@@ -7,19 +7,9 @@
 
 I'm a **Delivery Coach and Techie**, focused on **teams** and **flow** first. I help organizations adopt test automation and continuous delivery, as well as **understand** **DevOps from both technical and human perspectives**. 
 
-I'm a regular speaker and author ([InfoQ](https://www.infoq.com/profile/Manuel-Pais), [DZone](https://dzone.com/users/879943/manuelpais@gmail.com.html), [TechBeacon](https://techbeacon.com/contributors/manuel-pais)) on DevOps and Continuous Delivery.
+I'm a regular speaker and author ([InfoQ](https://www.infoq.com/profile/Manuel-Pais), [DZone](https://dzone.com/users/879943/manuelpais@gmail.com.html), [TechBeacon](https://techbeacon.com/contributors/manuel-pais)) on DevOps and Continuous Delivery. 
 
-Co-founder of [DevOps Lisbon meetup](http://devopslisbon.com/). 
-
-Co-author of the upcoming book "[Team Guide to Software Releasability](https://skeltonthatcher.com/publications/team-guide-software-releasability)" (expected release in first half 2018)
-
-Co-curator of the well-known [DevOps team topologies](http://devopstopologies.com) patterns at [devopstopologies.com](http://devopstopologies.com/) 
-
-[InfoQ DevOps lead editor](http://www.infoq.com/author/Manuel-Pais)
-
-Tweets [@manupaisable](https://twitter.com/manupaisable) (I like to share interesting articles and light bulb moments from conference I participate in). 
-
-Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisable). 
+Co-author of the upcoming book "[Team Guide to Software Releasability](https://skeltonthatcher.com/publications/team-guide-software-releasability)" (expected release in first half 2018).
 
 ------
 
@@ -43,9 +33,11 @@ Spent the last years helping clients adopt **DevOps** and accelerate their **Del
 
 ------
 
-## Articles
+## Writing
 
-Here are some examples of articles I've written for [InfoQ](https://www.infoq.com/profile/Manuel-Pais), [DZone](https://dzone.com/users/879943/manuelpais@gmail.com.html), [TechBeacon](https://techbeacon.com/contributors/manuel-pais) where I share my learnings from working with clients across industries.
+Here are some examples of articles I've written for [InfoQ](https://www.infoq.com/profile/Manuel-Pais), [DZone](https://dzone.com/users/879943/manuelpais@gmail.com.html), [TechBeacon](https://techbeacon.com/contributors/manuel-pais) where I share my learnings from working with clients across diverse industries.
+
+
 
 [How to increase enterprise collaboration and speed in your DevOps pipeline](https://techbeacon.com/how-increase-enterprise-collaboration-speed-your-devops-pipeline)
 
@@ -55,13 +47,31 @@ Here are some examples of articles I've written for [InfoQ](https://www.infoq.co
 
 [Continuous Delivery anti-patterns](https://dzone.com/articles/continuous-delivery-anti-patterns)
 
-> The idea that you can “just plug in a deployment pipeline” and get the bene ts of CD is a common anti-pattern.
+> The idea that you can “just plug in a deployment pipeline” and get the benefits of CD is a common anti-pattern.
 
 
 
 [Securing a Continuous Delivery pipeline](https://dzone.com/articles/securing-a-continuous-delivery-pipeline)
 
 > Automating security checks triggers conversations between developers, testers, and security folks. They get everyone on the same page, promote knowledge sharing, and establish common grounds and testable criteria for moving a candidate release through the deployment pipeline.
+
+------
+
+## What else do you do?
+
+I wear a few different hats besides being a consultant :)
+
+Co-founder of [DevOps Lisbon meetup](http://devopslisbon.com/). 
+
+Co-author of the upcoming book "[Team Guide to Software Releasability](https://skeltonthatcher.com/publications/team-guide-software-releasability)" (expected release in first half 2018)
+
+Co-curator of the well-known [DevOps team topologies](http://devopstopologies.com) patterns at [devopstopologies.com](http://devopstopologies.com/) 
+
+[InfoQ DevOps lead editor](http://www.infoq.com/author/Manuel-Pais)
+
+Tweets [@manupaisable](https://twitter.com/manupaisable) (I like to share interesting articles and light bulb moments from conference I participate in). 
+
+Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisable).
 
 ------
 
