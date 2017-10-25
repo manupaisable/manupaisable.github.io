@@ -77,12 +77,12 @@ Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisab
 
 ## Speaking Events
 
-- [Oct 24] "Everyone is Part of Continuous Delivery" @ online All Day DevOps conference 
 - [Nov 2] "Continuous Delivery in an Ancient World of Physical Devices" @ [Private Event] 
 - [Dec 12] "Everyone is Part of Continuous Delivery" @ Agile Connect Aveiro meetup
 
 ## Past Talks
 
+- [Everyone is Part of Continuous Delivery](https://www.slideshare.net/ManuelPais/everyone-is-part-of-continuous-delivery-all-day-devops-oct-2017)
 - [La La Land of DevOps Integration](https://www.slideshare.net/ManuelPais/la-lalandofdev-opsintegrationtugaitmay2017presented)
 - [The (Un)Surprising Truth about DevOps Culture](https://www.slideshare.net/ManuelPais/the-unsurprising-truth-about-devops-culture)
 - [C# Cookware](https://www.slideshare.net/ManuelPais/c-cookware-presented-at-cukeup-2014)
