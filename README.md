@@ -1,11 +1,11 @@
 # Hello! I'm Manuel Pais
-# Delivery Coach and Technologist 
+# DevOps and Delivery Consultant 
 
 ![ManuelPais_2017_small-oreilly-292](images/ManuelPais_2017_small-oreilly-292.jpg)
 
 ## About Me
 
-I'm a **Delivery Coach and Techie**, focused on **teams** and **flow** first. I help organizations adopt test automation and continuous delivery, as well as **understand** **DevOps from both technical and human perspectives**. 
+I'm a **DevOps and Delivery Coach and Consultant**, focused on **teams** and **flow** first. I help organizations adopt test automation and continuous delivery, as well as **understand** **DevOps from both technical and human perspectives**. 
 
 I'm a regular speaker and author ([InfoQ](https://www.infoq.com/profile/Manuel-Pais), [DZone](https://dzone.com/users/879943/manuelpais@gmail.com.html), [TechBeacon](https://techbeacon.com/contributors/manuel-pais)) on DevOps and Continuous Delivery. 
 
