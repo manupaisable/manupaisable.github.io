@@ -9,13 +9,13 @@ I'm a **DevOps and Delivery Coach and Consultant**, focused on **teams** and **f
 
 I'm a regular speaker and author ([InfoQ](https://www.infoq.com/profile/Manuel-Pais), [DZone](https://dzone.com/users/879943/manuelpais@gmail.com.html), [TechBeacon](https://techbeacon.com/contributors/manuel-pais)) on DevOps and Continuous Delivery. 
 
-Co-author of the upcoming book "[Team Guide to Software Releasability](https://skeltonthatcher.com/publications/team-guide-software-releasability)" (expected release in first half 2018).
+Co-author of the upcoming book [Team Guide to Software Releasability](https://skeltonthatcher.com/publications/team-guide-software-releasability) (expected release in first half 2018).
 
 ------
 
 ## Services
 
-I am available to provide training, consulting and advisory support in the areas of DevOps, Continuous Delivery, and Test Automation. I am also available to speak at both private and public events.
+I am available to provide training, consulting and workshops in the areas of DevOps, Continuous Delivery, and Test Automation. I am also available to speak at both private and public events.
 
 If you want to enquire as to my fees, availability, and get more information about the services I offer, then please [get in touch](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=manuel.pais@gmail.com). Or [tweet](https://twitter.com/manupaisable). 
 
@@ -77,13 +77,14 @@ Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisab
 
 ## Speaking Events
 
-- [Nov 2] "Continuous Delivery in an Ancient World of Physical Devices" @ [Private Event] 
+- [Nov 13] "Conciliando Velocidad de Desarrollo y Calidad en Sistemas de Alta Complejidad" @ [Private Event] 
 - [Dec 12] "Everyone is Part of Continuous Delivery" @ Agile Connect Aveiro meetup
 
 ## Past Talks
 
-- [Everyone is Part of Continuous Delivery](https://www.slideshare.net/ManuelPais/everyone-is-part-of-continuous-delivery-all-day-devops-oct-2017)
-- [La La Land of DevOps Integration](https://www.slideshare.net/ManuelPais/la-lalandofdev-opsintegrationtugaitmay2017presented)
-- [The (Un)Surprising Truth about DevOps Culture](https://www.slideshare.net/ManuelPais/the-unsurprising-truth-about-devops-culture)
-- [C# Cookware](https://www.slideshare.net/ManuelPais/c-cookware-presented-at-cukeup-2014)
-- [Build and Continuous Integration Maturity](https://www.slideshare.net/ManuelPais/build-and-continuous-integration-maturity-from-prezi)
+- [Everyone is Part of Continuous Delivery](https://youtu.be/Bf21S7KtXY0?t=1193)   [ [slides ](https://www.slideshare.net/ManuelPais/everyone-is-part-of-continuous-delivery-all-day-devops-oct-2017)]
+- La La Land of DevOps Integration   [ [slides](https://www.slideshare.net/ManuelPais/la-lalandofdev-opsintegrationtugaitmay2017presented) ]
+- [Continuous Delivery in an Ancient World of Physical Devices](https://vimeo.com/channels/londoncd/164899944)   [ [slides](https://www.slideshare.net/ManuelPais/continuous-delivery-in-an-ancient-world-of-physical-devices) ]
+- [The (Un)Surprising Truth about DevOps Culture](https://vimeo.com/169512695)   [ [slides](https://www.slideshare.net/ManuelPais/the-unsurprising-truth-about-devops-culture) ]
+- [C# Cookware](https://skillsmatter.com/skillscasts/5104-c-cookware)   [ [slides](https://www.slideshare.net/ManuelPais/c-cookware-presented-at-cukeup-2014) ]
+- Build and Continuous Integration Maturity   [ [slides](https://www.slideshare.net/ManuelPais/build-and-continuous-integration-maturity-from-prezi) ]
