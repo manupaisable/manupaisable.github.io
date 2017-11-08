@@ -15,7 +15,7 @@ Co-author of the upcoming book [Team Guide to Software Releasability](https://sk
 
 ## Services
 
-I am available to provide training, consulting and workshops in the areas of DevOps, Continuous Delivery, and Test Automation. I am also available to speak at both private and public events.
+I am available to provide training, consulting and [workshops](http://www.manuelpais.net/workshops.html) in the areas of DevOps, Continuous Delivery, and Test Automation. I am also available to speak at both private and public events.
 
 If you want to enquire as to my fees, availability, and get more information about the services I offer, then please [get in touch](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=manuel.pais@gmail.com). Or [tweet](https://twitter.com/manupaisable). 
 
