@@ -3,7 +3,7 @@
 
 ![ManuelPais_2017_small-oreilly-292](images/ManuelPais_2017_small-oreilly-292.jpg)
 
-#### ***Don't miss the chance for an early bird (30% OFF) ticket to attend my workshop "[Team Design for DevOps & Effective Software Systems](http://www.manuelpais.net/workshops.html)"***
+#### ***Don't miss the chance for an early bird (30% OFF) ticket to attend my workshop on [Team Design for DevOps & Effective Software Systems](http://www.manuelpais.net/workshops.html)***
 
 - [Lisbon 15 January 2018](https://ti.to/manuel-filipe-nunes-pais/workshop-team-design-for-devops-effective-software-systems-lisbon)
 - [Porto 19 February 2018](https://ti.to/manuel-filipe-nunes-pais/workshop-team-design-for-devops-effective-software-systems-porto)
