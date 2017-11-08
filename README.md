@@ -9,6 +9,8 @@
 - [Porto 19 February 2018](https://ti.to/manuel-filipe-nunes-pais/workshop-team-design-for-devops-effective-software-systems-porto)
   ​
 
+-------
+
 ## About Me
 
 I'm a **DevOps and Delivery Coach and Consultant**, focused on **teams** and **flow** first. I help organizations adopt test automation and continuous delivery, as well as **understand** **DevOps from both technical and human perspectives**. 
