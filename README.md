@@ -94,5 +94,6 @@ Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisab
 - La La Land of DevOps Integration   [ [slides](https://www.slideshare.net/ManuelPais/la-lalandofdev-opsintegrationtugaitmay2017presented) ]
 - [Continuous Delivery in an Ancient World of Physical Devices](https://vimeo.com/channels/londoncd/164899944)   [ [slides](https://www.slideshare.net/ManuelPais/continuous-delivery-in-an-ancient-world-of-physical-devices) ]
 - [The (Un)Surprising Truth about DevOps Culture](https://vimeo.com/169512695)   [ [slides](https://www.slideshare.net/ManuelPais/the-unsurprising-truth-about-devops-culture) ]
+- This is a DevOps World, But It Wouldn't Be Nothing, Without a Tester or a QA [ [slides](https://www.swipe.to/5582gh) ] 
 - [C# Cookware](https://skillsmatter.com/skillscasts/5104-c-cookware)   [ [slides](https://www.slideshare.net/ManuelPais/c-cookware-presented-at-cukeup-2014) ]
 - Build and Continuous Integration Maturity   [ [slides](https://www.slideshare.net/ManuelPais/build-and-continuous-integration-maturity-from-prezi) ]
