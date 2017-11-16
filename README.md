@@ -85,11 +85,11 @@ Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisab
 
 ## Speaking Events
 
-- [Nov 13] "Conciliando Velocidad de Desarrollo y Calidad en Sistemas de Alta Complejidad" @ [Private Event] 
 - [Dec 12] "Everyone is Part of Continuous Delivery" @ Agile Connect Aveiro meetup
 
 ## Past Talks
 
+- Combining Speed of Delivery and Quality in Complex Systems [ [Spanish](https://canal.uned.es/mmobj/index/id/59611) ]
 - [Everyone is Part of Continuous Delivery](https://youtu.be/Bf21S7KtXY0?t=1193)   [ [slides ](https://www.slideshare.net/ManuelPais/everyone-is-part-of-continuous-delivery-all-day-devops-oct-2017)]
 - La La Land of DevOps Integration   [ [slides](https://www.slideshare.net/ManuelPais/la-lalandofdev-opsintegrationtugaitmay2017presented) ]
 - [Continuous Delivery in an Ancient World of Physical Devices](https://vimeo.com/channels/londoncd/164899944)   [ [slides](https://www.slideshare.net/ManuelPais/continuous-delivery-in-an-ancient-world-of-physical-devices) ]
