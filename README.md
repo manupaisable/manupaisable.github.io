@@ -85,7 +85,8 @@ Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisab
 
 ## Speaking Events
 
-- [Dec 12] "Everyone is Part of Continuous Delivery" @ Agile Connect Aveiro meetup
+- [Feb 22] "Everyone is Part of Continuous Delivery" @ Madrid DevOps meetup
+- [May 16-18] "La La Land of DevOps Tools Integration" @ [Continuous Lifecycle London 2018](https://continuouslifecycle.london/)
 
 ## Past Talks
 
