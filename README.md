@@ -7,8 +7,6 @@
 
 - [Porto 19 February 2018](https://ti.to/manuel-filipe-nunes-pais/workshop-team-design-for-devops-effective-software-systems-porto)
 
-  ​
-
 -------
 
 ## About Me
