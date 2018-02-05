@@ -1,5 +1,5 @@
 # Hello! I'm Manuel Pais
-# DevOps and Delivery Consultant 
+# DevOps and Continuous Delivery Consultant 
 
 ![ManuelPais_2017_small-oreilly-292](images/ManuelPais_2017_small-oreilly-292.jpg)
 
@@ -85,14 +85,14 @@ Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisab
 
 ## Speaking Events
 
-- [Feb 22] "Everyone is Part of Continuous Delivery" @ Madrid DevOps meetup
+- [Feb 21] "La La Land of DevOps Tools Integration" @ [Madrid DevOps meetup](https://www.meetup.com/madrid-devops/events/247459841/)
 - [May 16] "La La Land of DevOps Tools Integration" @ [Continuous Lifecycle London 2018](https://continuouslifecycle.london/)
 
 ## Past Talks
 
 - Combining Speed of Delivery and Quality in Complex Systems [ [Spanish](https://canal.uned.es/mmobj/index/id/59611) ]
 - [Everyone is Part of Continuous Delivery](https://youtu.be/Bf21S7KtXY0?t=1193)   [ [slides ](https://www.slideshare.net/ManuelPais/everyone-is-part-of-continuous-delivery-all-day-devops-oct-2017)]
-- La La Land of DevOps Integration   [ [slides](https://www.slideshare.net/ManuelPais/la-lalandofdev-opsintegrationtugaitmay2017presented) ]
+- La La Land of DevOps Integration [ [slides](https://www.slideshare.net/ManuelPais/la-lalandofdev-opsintegrationtugaitmay2017presented) ]
 - [Continuous Delivery in an Ancient World of Physical Devices](https://vimeo.com/channels/londoncd/164899944)   [ [slides](https://www.slideshare.net/ManuelPais/continuous-delivery-in-an-ancient-world-of-physical-devices) ]
 - [The (Un)Surprising Truth about DevOps Culture](https://vimeo.com/169512695)   [ [slides](https://www.slideshare.net/ManuelPais/the-unsurprising-truth-about-devops-culture) ]
 - This is a DevOps World, But It Wouldn't Be Nothing, Without a Tester or a QA [ [slides](https://www.swipe.to/5582gh) ] 
