@@ -5,7 +5,7 @@
 
 #### ***Don't miss the chance for an early bird (30% OFF) ticket to attend my workshop on [Team Design for DevOps & Effective Software Systems](http://www.manuelpais.net/workshops.html)***
 
-- [Porto 19 February 2018](https://ti.to/manuel-filipe-nunes-pais/workshop-team-design-for-devops-effective-software-systems-porto)
+[Porto 19 February 2018](https://ti.to/manuel-filipe-nunes-pais/workshop-team-design-for-devops-effective-software-systems-porto)
 
 -------
 
