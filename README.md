@@ -79,8 +79,10 @@ Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisab
 
 ## Speaking Events
 
-- [Feb 21] "La La Land of DevOps Tools Integration" @ [Madrid DevOps meetup](https://www.meetup.com/madrid-devops/events/247459841/)
 - [May 16] "La La Land of DevOps Tools Integration" @ [Continuous Lifecycle London 2018](https://continuouslifecycle.london/)
+- [May 26] "Practical Techniques for Software Releasability" (WORKSHOP) @ DevOps Lisbon meetup
+- [June 4] "Practical Techniques for Software Releasability" (WORKSHOP) @ [expoQA 2018](http://expoqa.com/en-sessions-day1.html#track1-1)
+- [July ??] "La La Land of DevOps Tools Integration" @ DevOps Porto meetup
 
 ## Past Talks
 
