@@ -35,6 +35,12 @@ Spent the last years helping clients adopt **DevOps** and accelerate their **Del
 
 ------
 
+## Workshops
+
+See [here](workshops.html).
+
+------
+
 ## Writing
 
 Here are some examples of articles I've written for [InfoQ](https://www.infoq.com/profile/Manuel-Pais), [DZone](https://dzone.com/users/879943/manuelpais@gmail.com.html), [TechBeacon](https://techbeacon.com/contributors/manuel-pais) where I share my learnings from working with clients across diverse industries.
