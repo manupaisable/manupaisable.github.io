@@ -85,16 +85,15 @@ Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisab
 
 ## Speaking Events
 
-- [May 16] "La La Land of DevOps Tools Integration" @ [Continuous Lifecycle London 2018](https://continuouslifecycle.london/)
 - [May 26] "Practical Techniques for Software Releasability" (WORKSHOP) @ DevOps Lisbon meetup
 - [June 4] "Practical Techniques for Software Releasability" (WORKSHOP) @ [expoQA 2018](http://expoqa.com/en-sessions-day1.html#track1-1)
 - [July ??] "La La Land of DevOps Tools Integration" @ DevOps Porto meetup
 
 ## Past Talks
 
+- La La Land of DevOps Integration [ [slides](https://www.slideshare.net/ManuelPais/la-la-land-of-devops-integration-continuous-lifecycle-london-2018) ]
 - Combining Speed of Delivery and Quality in Complex Systems [ [Spanish](https://canal.uned.es/mmobj/index/id/59611) ]
 - [Everyone is Part of Continuous Delivery](https://youtu.be/Bf21S7KtXY0?t=1193)   [ [slides ](https://www.slideshare.net/ManuelPais/everyone-is-part-of-continuous-delivery-all-day-devops-oct-2017)]
-- La La Land of DevOps Integration [ [slides](https://www.slideshare.net/ManuelPais/la-lalandofdev-opsintegrationtugaitmay2017presented) ]
 - [Continuous Delivery in an Ancient World of Physical Devices](https://vimeo.com/channels/londoncd/164899944)   [ [slides](https://www.slideshare.net/ManuelPais/continuous-delivery-in-an-ancient-world-of-physical-devices) ]
 - [The (Un)Surprising Truth about DevOps Culture](https://vimeo.com/169512695)   [ [slides](https://www.slideshare.net/ManuelPais/the-unsurprising-truth-about-devops-culture) ]
 - This is a DevOps World, But It Wouldn't Be Nothing, Without a Tester or a QA [ [slides](https://www.swipe.to/5582gh) ] 
