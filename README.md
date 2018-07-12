@@ -5,6 +5,10 @@
 
 -------
 
+### ---> For the list of my [workshops go here](https://www.manuelpais.net/workshops.html) 
+
+### ---> For a FREE  sample of my book ["Team Guide to Software Releasability" go here](https://leanpub.com/softwarereleasability/)
+
 ## About Me
 
 I'm a **DevOps and Delivery Coach and Consultant**, focused on **teams** and **flow** first. I help organizations adopt test automation and continuous delivery, as well as **understand** **DevOps from both technical and human perspectives**. 
