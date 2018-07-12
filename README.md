@@ -5,9 +5,9 @@
 
 -------
 
-### ---> For the list of my [workshops go here](https://www.manuelpais.net/workshops.html) 
+## ---> [For the list of my workshops go here](https://www.manuelpais.net/workshops.html) 
 
-### ---> For a FREE  sample of my book ["Team Guide to Software Releasability" go here](https://leanpub.com/softwarereleasability/)
+## ---> [For a FREE  sample of my book "Team Guide to Software Releasability" go here](https://leanpub.com/softwarereleasability/)
 
 ## About Me
 
