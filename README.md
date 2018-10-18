@@ -89,11 +89,12 @@ Blogs (not enough... it's never enough) [@medium](https://medium.com/@manupaisab
 
 ## Speaking Events
 
-- [Oct 17] "Practical Techniques for Software Releasability" @ [All Day DevOps](https://www.alldaydevops.com/) (online)
+- [Oct 17] "Delivery Patterns for Rapid and Reliable Releases" @ [All Day DevOps](https://www.alldaydevops.com/) (online)
 - [Oct 19] "Software Releasability: Scaling Continuous Delivery" (TUTORIAL) @ [QS-Tag](http://www.qs-tag.de/index.php?id=5337) (Frankfurt)
 
 ## Past Talks
 
+- Delivery Patterns for Rapid and Reliable Releases [ [slides](https://www.slideshare.net/ManuelPais/delivery-patterns-for-rapid-and-reliable-software-all-day-devops-2018) ]
 - Continuous Delivery Patterns for Boring Releases [ [slides](https://www.slideshare.net/ManuelPais/continuous-delivery-patterns-for-boring-releases-devops-porto-meetup-july-12th-2018) ]
 - La La Land of DevOps Integration [ [slides](https://www.slideshare.net/ManuelPais/la-la-land-of-devops-integration-continuous-lifecycle-london-2018) ]
 - Combining Speed of Delivery and Quality in Complex Systems [ [Spanish](https://canal.uned.es/mmobj/index/id/59611) ]
