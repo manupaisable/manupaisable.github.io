@@ -5,6 +5,8 @@
 
 -------
 
+## ---> **[To book a CALL with me go here](https://schedule-manuelpais-teamtopologies.as.me)** 
+
 ## ---> **[For the list of my workshops go here](https://www.manuelpais.net/workshops.html)** 
 
 ## ---> **[FREE  sample of "Team Guide to Software Releasability" here](https://leanpub.com/softwarereleasability/)**
